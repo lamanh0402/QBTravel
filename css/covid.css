@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx");
+    src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+  
+.CV10{
+    color: #fff;
+    margin-left: 120px;
+    padding-top: 240px;
+}
+
+.CV31 li {
+    
+    font-weight: 400;
+    
+}
+.CV3 {
+    line-height: 1.6;
+}
+.CV3 h4 {
+    font-size: 20px;
+}
+.CV3 p, ul{
+    color: #848484;
+}
+ul.content-list.tick-list {
+    margin-bottom: 16px;
+}
+.article .thumbnail p, .content-list.tick-list li, .detail-accordion .slide-holder p, .detail-accordion .title, .hightlight.content-list.tick-list li, .latest-articles .article-item, .mt-intro p, body, div.detail, p.intro {
+    line-height: 1.67;
+}
+.hightlight.content-list.tick-list li {
+    font-size: 1.6rem;
+    list-style: none;
+    font-family: "Open Sans", Arial, sans-serif;
+
+}
+.content-list.tick-list li:before {
+    padding: 0;
+}
+.content-list.tick-list li:before {
+    font-family: 'icomoon';
+    content: "\ec0f";
+    padding: 5px 20px 2px 3px;
+    font-size: 1.8rem;
+    color: #307a55;
+}
